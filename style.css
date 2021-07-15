@@ -76,6 +76,7 @@ button{
     width: 330px;
     height: 474px;
     background: #FFFFFF;
+    border-radius: 7px;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
 }
 .player-detail{
@@ -148,7 +149,7 @@ button{
     background-color: rgba(224, 213, 213, 0.39);
 }
 /*----------------
-    footer section
+    footer part
 ---------------------*/
 
 footer{
@@ -181,7 +182,7 @@ footer{
 
 
 /*------------------
-    Media Queries
+    Media Que......
 -------------------- */
 
 /* Mobile Device */
@@ -232,7 +233,7 @@ footer{
     }
 }
 
-/* Tablet Devices */
+/* Tablet Device */
 @media only screen and (min-width: 688px) and (max-width: 992px) {
     .top-legend{
         width: 100%;
